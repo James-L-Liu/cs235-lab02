@@ -70,7 +70,12 @@ def get_factorial(value: int):
 
 def get_rand():
     '''Returns a random integer.'''
-    """TODO: Add your code here 
+    """TODO: Addfakhkjmnkncvbmn
+    fjaklj
+    sdfhir
+    afsdfc faega
+    asdkjh
+    d your code here 
         Hint: Using random.randint() function.
     """
 
